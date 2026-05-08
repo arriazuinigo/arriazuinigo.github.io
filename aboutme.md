@@ -1,40 +1,50 @@
 ---
 layout: page
 title: About Me
-subtitle: Biomedical Engineer | Health & Data Science | Bioinformatics & Mental Health Research
+subtitle: Data Analyst & Database Engineer | Biomedical Data Science | Cloud Analytics | Green Computing
 ---
 
-Hi! I'm **Iñigo Arriazu Garcia**, a biomedical engineer with a passion for data-driven health research. I am currently studying the **Inter-university Master's Degree in Health Data Science** and working as a bioinformatics technician in psychiatric research.
+I'm **Iñigo Arriazu Garcia**, a data professional with a background in Computer Science, Biotechnology, and Biomedical Data Science.
 
-My work sits at the intersection of computational biology, machine learning, and mental health — fields I believe hold the key to transforming how we understand and treat psychiatric disorders.
+Professionally, I work across data analysis, database administration, business intelligence, and cloud analytics. I have experience using data to support business decisions, automate reporting, and build analytical views that connect technical systems with real operational outcomes.
 
----
+Academically, I am focused on Biomedical Data Science, with interests in EHR data, medical imaging, machine learning, and predictive modelling in healthcare.
 
-### Current Work
-**Bioinformatics Technician** — Genetics & Environment in Psychiatry group  
-Applying computational and statistical tools to large-scale genomic and clinical datasets in psychiatric research.
+I am also working on research related to green computing, specifically the measurement and optimization of energy consumption in serverless and Kubernetes-based workflows. This includes experimenting with Lithops, Flexecutor, MinIO, Kubernetes, and energy profiling methods for distributed workloads.
 
----
+My profile sits between three areas:
 
-### Research Interests
-- Bioinformatics and computational biology
-- Mental health and psychiatric disorders
-- Biomarker discovery for psychiatric conditions
-- Machine learning applied to healthcare
+- Data engineering and analytics
+- Biomedical data science
+- Sustainable cloud computing
 
----
-
-### Education
-- **Master's Degree in Health Data Science** *(in progress)* — Inter-university program
-- **Degree in Biomedical Engineering**
+This combination allows me to approach data problems from both a practical business perspective and a scientific research perspective.
 
 ---
 
-### Future Goals
-Pursue a PhD developing predictive models based on biomarkers for psychiatric disorders, contributing to early diagnosis and personalised treatment strategies.
+## Technical Skills
+
+**Data & BI** — SQL, Power BI, BigQuery, data modelling, dashboards, KPI design, reporting automation
+
+**Programming** — Python, data processing, scripting, analytics workflows
+
+**Cloud & Infrastructure** — Kubernetes, MinIO, serverless workflows, cloud analytics, distributed execution
+
+**Research & Data Science** — Machine learning, biomedical datasets, EHR data, medical imaging, statistical analysis
 
 ---
 
-### Connect
+## Research Interests
+
+- Energy-aware cloud computing
+- Serverless workflow optimization
+- Biomedical data science
+- Predictive modelling in healthcare
+- Business intelligence and analytics engineering
+- Data infrastructure for scalable decision-making
+
+---
+
+## Connect
 - [LinkedIn](https://www.linkedin.com/in/inigo-arriazu-garcia/)
 - [GitHub](https://github.com/arriazuinigo)
